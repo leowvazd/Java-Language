@@ -1,3 +1,0 @@
-/*
-enunciados dos exercicios
-*/
